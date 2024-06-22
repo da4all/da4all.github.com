@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Principal Investigator 
-group_rank: 1
+group_rank: 
 
 title: Laurie Gries
 description: Profile of Laurie Gries
