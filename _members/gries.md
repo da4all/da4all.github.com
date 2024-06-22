@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Principal Investigator
+group: Principal Investigator 
 group_rank: 1
 
 title: Laurie Gries
