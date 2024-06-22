@@ -12,7 +12,7 @@ publications: <!-- 'author^=*[lastname]' -->
 teaser: >
     <!-- description here -->
 profile:
-    name: Lindsay Poirier
+    name: Lindsay Poirier 
     position: 
     department: 
     organization: 
