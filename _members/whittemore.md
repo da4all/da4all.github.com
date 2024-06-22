@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Research Assistant
-group_rank: 3
+group_rank: 
 
 title: Lore Whittemore
 description: Profile of Lore Whittemore
