@@ -6,7 +6,7 @@ group_rank: 2
 
 title: Lore Whittemore
 description: Profile of Lore Whittemore
-lastname: Lore
+lastname: Whittemore
 publications: 'author^=*[Whittemore]'
 
 teaser: >
