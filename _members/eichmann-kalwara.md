@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Co-Principal Investigators
-group_rank: 2
+group_rank: 
 
 title: Nickoal Eichmann-Kalwara
 description: Profile of Nickoal Eichmann-Kalwara
