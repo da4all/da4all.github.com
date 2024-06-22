@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Co-Principal Investigators
-group_rank: 2
+group_rank: 
 
 title: Cameron Blevins
 description: Profile of Cameron Blevins
